@@ -1,2 +1,2 @@
 # rassul_kage_fa
-The quick startup for fastapi
+The quick start for fastapi
